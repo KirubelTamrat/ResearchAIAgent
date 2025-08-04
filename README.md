@@ -1,4 +1,4 @@
-# Research Assitant AIAgent
+# Research Assitant AI Agent
 Autonomous research assistant powered by LangChain, OpenAI, and DuckDuckGo. This agent performs real-time web and Wikipedia searches, generates structured research summaries, and saves the results to a timestamped file, making it ideal for students, developers, and professionals doing exploratory research.
 
 Key Features:
